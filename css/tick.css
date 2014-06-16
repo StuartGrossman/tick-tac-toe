@@ -1,0 +1,21 @@
+.size{
+	padding-left: 2px;
+	font-size: 80px;
+	text-align: center;
+}
+#table{
+	padding-left: 2px;
+	padding-right: 2px;
+	margin: auto;
+	text-align: center;
+	table-layout: fixed;
+}
+#r1b1{
+
+}
+.button{
+	font-size: 30px;
+}
+body{
+	background-image: url("http://2.bp.blogspot.com/-WLgMgyrl-p0/TyqmaQzwRvI/AAAAAAAAQdA/YUNHPSicp3U/s1600/oldpaperscrolls5+BackgroundFairy.jpg"); 
+}
